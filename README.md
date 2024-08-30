@@ -2,4 +2,4 @@
 - 👀 I’m interested in Windows
 - 🌱 I’m currently learning UWP
 - 📫 How to reach me: 
-- Discord: shaggy/lorean xavier#1917
+- Discord: shaggy/lorean
