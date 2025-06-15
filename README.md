@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShaggyLorean
-- 👀 I’m interested in Windows
+- 👀 I’m an electronic music producer also a former anti-cheat reverser
 - 🌱 I’m currently learning UWP
 - 📫 How to reach me: 
-- Discord: shaggy/lorean
+- Discord: lorean
